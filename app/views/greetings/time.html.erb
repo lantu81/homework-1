@@ -1,0 +1,11 @@
+<h1>The Time Now</h1>
+<div ><script type="text/javascript">
+var myDate = new Date();
+document.write(myDate.toLocaleString())
+setInterval(function(){
+    window.location.reload();
+},500);
+
+
+</script></div>
+<div ><%= link_to("back", "/greetings/hello") %></div>
