@@ -56,11 +56,11 @@
 ### 功能4 改
 #### 需求：修改Ben用户
 #### 操作点击Show按钮，查看该用户
-![](https://github.com/lantu81/homework-1/raw/master/app/pic/31.png) 
+![](https://github.com/lantu81/homework-1/raw/master/app/pic/41.png) 
 #### 显示修改用户成功
-![](https://github.com/lantu81/homework-1/raw/master/app/pic/32.png) 
+![](https://github.com/lantu81/homework-1/raw/master/app/pic/42.png) 
 #### 主页面显示新的用户信息
-![](https://github.com/lantu81/homework-1/raw/master/app/pic/33.png)  
+![](https://github.com/lantu81/homework-1/raw/master/app/pic/43.png)  
 
 ## 总结
  - 通过本次学习，第一次接触并学习了git相关知识，RoR框架以及相关shell命令
