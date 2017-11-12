@@ -1,25 +1,25 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+# 第一次作业
+## 环境介绍：
+. 虚拟机：VMware® Workstation 12 Pro（12.5.7 build-5813279）
+. 系统：Ubuntu-16.04.3
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
+## 作业一
 
-* Database creation
+### 功能1 link到其他主页
+### 功能2 显示本地时间
+### 功能3 点击按钮，实现页面跳转
 
-* Database initialization
+## 作业二
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+### 增
+### 删
+### 查
+### 改
 
-* Deployment instructions
-
-* ...
-# homework-1
+### 显示
